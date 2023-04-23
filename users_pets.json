@@ -1,3 +1,4 @@
+// A simple API endpoint that shows list of pets of different users.
 [
 {
   "id":1,
